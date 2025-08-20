@@ -13,7 +13,7 @@ Built with FastAPI, PostgreSQL (or SQLite), SQLAlchemy, Celery, and Redis.
 
 # Setup Instructions
 1. Clone Repository
-git clone https:[//github.com/your-username/file-parser-api.git](https://github.com/simrbatra/File-Parser-CRUD-API-with-Progress-Tracking.git)
+git clone https:(https://github.com/simrbatra/File-Parser-CRUD-API-with-Progress-Tracking.git)
 cd file-parser-api
 
 2. Create Virtual Environment & Install Dependencies
